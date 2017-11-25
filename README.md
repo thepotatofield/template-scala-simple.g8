@@ -1,6 +1,6 @@
 # template-scala-simple.g8 #
 
-This is a [Giter8][g8] template for a simple Scala module.
+This is a [Giter8][g8] template for a simple Scala project.
 
 [g8]: http://www.foundweekends.org/giter8/
 
